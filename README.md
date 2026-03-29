@@ -1,8 +1,26 @@
 # 🌊 ghostnetfishing
 
-Webprojekt im Modul Programmierung von industriellen Informationssystemen mit Java EE (IPWA02-01).
-Im Rahmen des ersten Sprints wurde eine Plattform entwickelt, über die Geisternetze gemeldet und Bergungen koordiniert werden können. 
-Die Netze werden nach Status gruppiert dargestellt und noch zu bergende Netze auf einer Weltkarte visualisiert.
+Webprojekt im Modul Programmierung von industriellen Informationssystemen (Java EE).
+Im Rahmen des ersten Sprints entstand eine Webanwendung zur Meldung, Verwaltung und Visualisierung von Geisternetzen inkl. Kartenansicht und Statusverwaltung.
+
+## 🏠 Home
+<img src="https://github.com/user-attachments/assets/7a406ba3-62dd-4313-9637-dc322a73ef8d" width="65%" alt="Home">
+
+---
+
+## 📊 Übersicht und Kartenansicht
+Visualisierung aller gemeldeten Geisternetze weltweit nach Status (z. B. geborgen / offen), inkl. Kartenansicht.
+
+<img src="https://github.com/user-attachments/assets/8087556e-f1fb-4ef6-b7ff-187b9fe14709" width="65%" alt="Overview">
+
+---
+
+## 📝 Meldung & Bergung
+
+<p>
+  <img src="https://github.com/user-attachments/assets/e0c271f5-7b0d-4f23-8c15-6c566eef01de" width="42%" alt="Report Form">
+  <img src="https://github.com/user-attachments/assets/e8311878-0dc0-4ce5-8cf6-b96c074c9795" width="42%" alt="Recovered Form">
+</p>
 
 ## ⚙️ Installation & Setup
 
