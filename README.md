@@ -1,4 +1,4 @@
-# 🌊 ghostnetfishing
+# 🌊 GhostNetFishing
 
 Webprojekt im Modul Programmierung von industriellen Informationssystemen (Java EE).
 Im Rahmen des ersten Sprints entstand eine Webanwendung zur Meldung, Verwaltung und Visualisierung von Geisternetzen inkl. Kartenansicht und Statusverwaltung.
